@@ -13,7 +13,7 @@ import sys
 class UpdateChecker:
     def __init__(self):
         self.repo_owner = "KazOnline"
-        self.repo_name = "ODIN-Private"
+        self.repo_name = "ODIN-Rel"
         self.github_api_url = f"https://api.github.com/repos/{self.repo_owner}/{self.repo_name}/releases/latest"
         self.download_url = f"https://github.com/{self.repo_owner}/{self.repo_name}"
         
@@ -247,3 +247,4 @@ class UpdateChecker:
 if __name__ == "__main__":
     app = UpdateChecker()
     app.run()
+
