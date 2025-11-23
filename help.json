@@ -1,0 +1,7 @@
+[
+    {
+        "date": "2025-11-21",
+        "title": "Starting a New Day",
+        "content": "This guide runs you through the export from Transmille process at the start of a day.\n\nStep 1: Export an E Report with a 2 month span (1st of the previous month) or other desired length from Transmille.\n\nStep 2: Open Priorities, click \"New Day\"\n\nStep 3: Select all of your active engineers for the day before clicking \"Import E Report\". Don't worry, the engineers can be edited easily later.\n\nStep 4: Click \"Import E Report\" and select the .xls file exported from Transmille.\n\n \n\tNote: If an older report is entered, these jobs will\n\t\tbe present until a more up to date import\n\t\tclears them.\n\n \nThis will run the \"New Day\" setup and refresh the list to the up to date information. Any previous priorities, assignments, subs from the day prior that are still on Status E will be kept."
+    }
+]

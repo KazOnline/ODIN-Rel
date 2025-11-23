@@ -1,0 +1,172 @@
+{
+    "themes": {
+        "Light": {
+            "bg": "#ffffff",
+            "fg": "#000000",
+            "highlight": "#e0e0e0",
+            "button": "#f0f0f0"
+        },
+        "Dark": {
+            "bg": "#2e2e2e",
+            "fg": "#ffffff",
+            "highlight": "#3e3e3e",
+            "button": "#4e4e4e"
+        }
+    },
+    "theme": "Dark",
+    "receiver": {
+        "version": "1.0.0",
+        "app_name": "ODIN - Engineer"
+    },
+    "app_name": "ODIN",
+    "version": "2.1.0 (Alpha)",
+    "byline": "Developed By: Ryan Way",
+    "engineers": [
+        {
+            "name": "Ryan Way",
+            "role": "Accredited Calibration Engineer",
+            "email": "ryan.way@acutest-ukti.co.uk",
+            "active": true,
+            "skills": [
+                "calibration",
+                "pressure",
+                "ukas",
+                "technical",
+                "transposition"
+            ]
+        },
+        {
+            "name": "James Tildesley",
+            "role": "Calibration Engineer",
+            "email": "james.tildesley@acutest-ukti.co.uk",
+            "active": true,
+            "skills": [
+                "calibration",
+                "HV",
+                "technical",
+                "transposition"
+            ]
+        },
+        {
+            "name": "Joseph Shillabeer",
+            "role": "Calibration Engineer",
+            "email": "joseph.shillabeer@acutest-ukti.co.uk",
+            "active": true,
+            "skills": [
+                "calibration",
+                "pressure",
+                "ukas",
+                "technical"
+            ]
+        },
+        {
+            "name": "Jordan Shaw",
+            "role": "Calibration Engineer",
+            "email": "jordan.shaw@acutest-ukti.co.uk",
+            "active": true,
+            "skills": [
+                "calibration",
+                "technical"
+            ]
+        },
+        {
+            "name": "Steve Fowler",
+            "role": "Calibration Engineer",
+            "email": "steve.fowler@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration"
+            ]
+        },
+        {
+            "name": "Daniel Lumley",
+            "role": "Calibration Engineer",
+            "email": "daniel.lumley@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration"
+            ]
+        },
+        {
+            "name": "Darren Newton-Turner",
+            "role": "Calibration Engineer",
+            "email": "darren.newton-turner@acutest-ukti.co.uk",
+            "active": true,
+            "skills": [
+                "calibration",
+                "gas",
+                "pressure",
+                "transposition"
+            ]
+        },
+        {
+            "name": "Ashley Jones",
+            "role": "Calibration Engineer",
+            "email": "ashley.jones@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration"
+            ]
+        },
+        {
+            "name": "Declan Basford",
+            "role": "Calibration Engineer",
+            "email": "declan.basford@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration",
+                "transposition"
+            ]
+        },
+        {
+            "name": "Owen Emery",
+            "role": "Calibration Engineer",
+            "email": "owen.emery@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration",
+                "transposition"
+            ]
+        },
+        {
+            "name": "Adam Poyser",
+            "role": "Calibration Engineer",
+            "email": "adam.poyser@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration",
+                "gas",
+                "transposition"
+            ]
+        },
+        {
+            "name": "Craig Hand",
+            "role": "Calibration Engineer",
+            "email": "craig.hand@acutest-ukti.co.uk",
+            "active": false,
+            "skills": [
+                "calibration",
+                "hv"
+            ]
+        },
+        {
+            "name": "Sub",
+            "active": true,
+            "skills": []
+        }
+    ],
+    "list_colours": {
+        "Priority": "#a85757",
+        "Has_Cert": "#57a857",
+        "Late Dated": "#bd9582",
+        "Marked Complete": "#57a857"
+    },
+    "statuses": [
+        "E",
+        "F",
+        "L",
+        "N",
+        "A"
+    ],
+    "late_threshold": 7
+}
